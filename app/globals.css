@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --bg: #0a0a0a;
+  --bg: #1a0a2e;
   --grid-line: #1a1a2e;
   --cell-empty: #111122;
   --cell-hover: #1a1a3e;
